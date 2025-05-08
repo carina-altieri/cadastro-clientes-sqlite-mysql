@@ -7,7 +7,6 @@ Este projeto permite o cadastro de clientes em um banco de dados SQLite e a migr
 * Migração automática dos dados de SQLite para MySQL.
 * Geração de relatórios em CSV e Excel.
 * Interface gráfica simples utilizando Tkinter.
-* Como configurar o banco de dados MySQL
 
 Para que o projeto funcione com o seu banco de dados MySQL, você precisará ajustar as configurações de conexão no código. Siga os passos abaixo:
 
